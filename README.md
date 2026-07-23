@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rocío Planas 👋
 
-<!--
-**Rocio-Planas/Rocio-Planas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineer from Cuba.
 
-Here are some ideas to get you started:
+💻 I enjoy building software using Java, JavaScript and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving my backend development skills.
+
+## Technologies
+
+- Java
+- JavaScript
+- Python
+- Git & GitHub
+- SQL
+
+## Projects
+
+📌 Event Management System
+
+📌 Platforma Eventos
+
+📌 Editor
+
+📌 MochilaPOO
+
+## Contact
+
+📧 rocioplanash@gmail.com
+
+💼 LinkedIn 
